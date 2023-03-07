@@ -1,3 +1,2 @@
 print('hellooooo')
-print()
-gjgjh
+print('gjgjh')
